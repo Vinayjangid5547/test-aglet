@@ -1,0 +1,1 @@
+<script src="<?php echo ASSETS_PATH . 'js/admin/script.js'; ?>"></script>

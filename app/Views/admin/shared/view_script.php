@@ -1,0 +1,10 @@
+<script src="<?php echo ASSETS_PATH; ?>js/jquery.min.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/plugins/apexcharts.min.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/plugins/popper.min.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/plugins/simplebar.min.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/plugins/bootstrap.min.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/fonts/custom-font.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/script.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/theme.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/admin/plugins/feather.min.js"></script>
+<script src="<?php echo ASSETS_PATH; ?>js/custom.js"></script>
